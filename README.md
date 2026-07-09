@@ -29,10 +29,10 @@ GH drink buff
   - 2 Прожать галочку на REPLACE TEXTURES
   - 3 Открыть SHOW IN FOLDER и перенести папки в ту что откроется
 
-  https://www.nexusmods.com/monsterhunterfreedomunite/mods/36 - Текстурки (еще лучше)
+- https://www.nexusmods.com/monsterhunterfreedomunite/mods/36 - Текстурки (еще лучше)
  
-  https://www.nexusmods.com/monsterhunterfreedomunite/mods/38 - ХП оверлей
+- https://www.nexusmods.com/monsterhunterfreedomunite/mods/38 - ХП оверлей
   
-  https://www.nexusmods.com/monsterhunterfreedomunite/mods/25 - Лок (почти) как в 3у / 4у 
+- https://www.nexusmods.com/monsterhunterfreedomunite/mods/25 - Лок (почти) как в 3у / 4у 
   
-  https://www.nexusmods.com/monsterhunterfreedomunite/mods/26 - Точки сбора подсвечиваются
+- https://www.nexusmods.com/monsterhunterfreedomunite/mods/26 - Точки сбора подсвечиваются
