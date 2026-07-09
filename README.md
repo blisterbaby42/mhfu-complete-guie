@@ -21,12 +21,30 @@ tamadai eptbl
 
 ЧЕ можно делать в конфиге из интересного:
 
+True damage value:
 
-True damage value
+![Alt text](https://fucomplete.github.io/assets/images/config_editor/true_raw_d.png) ![Alt text](https://fucomplete.github.io/assets/images/config_editor/true_raw_e.png) 
 
-Minimap scale
+Minimap scale:
 
-GH drink buff
+![Alt text](https://fucomplete.github.io/assets/images/config_editor/minimap_50.png)
+
+GH drink buff:
+
+When enabled, can get a quick Health and Stamina boost without leaving the Gathering Hall, based on how many Felyne Chefs you have working in your kitchen.
+
+Note: This does not provide any felyne food skills and you can either drink in hall for a quick boost OR eat in kitchen… not BOTH.
+
+For the added food skill bonuses, eating in the kitchen directly is still required.
+
+    For each active chef in your kitchen:
+    Receive +10 max HP (max +50 at 5 chefs).
+    For 1-4 active chefs in your kitchen:
+    Receive +25 max Stamina (max +50 at 5 chefs).
+
+Press Circle to activate while sitting at the table.
+
+Default is Disable
 
 //////////////////////////////////////////////////////////////////////////////////////////////////////////
 
