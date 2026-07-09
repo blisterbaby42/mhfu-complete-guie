@@ -1,4 +1,4 @@
-<img width="6480" height="320" alt="sddefault" src="https://github.com/user-attachments/assets/ddf74824-343f-421a-940b-0fd473c74a25" />
+<img width="480" height="320" alt="sddefault" src="https://github.com/user-attachments/assets/ddf74824-343f-421a-940b-0fd473c74a25" />
 
 [Патченый ISO](https://drive.google.com/file/d/1H2o6R6IEw7QTmlyFf4s5Bw4CyFTcSKZT/view?usp=sharing)
 
