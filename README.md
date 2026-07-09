@@ -20,6 +20,7 @@ GH drink buff
 
 АЛСО:
 - Текстурки получше (с пс2 МХ Дос): https://github.com/Monkbreh/MHFU-Texture-Port
+
     // Установка:
   Закинуть папки с серийниками в  $USER/Documents/PPSSPP/PSP/TEXTURES/.
   
@@ -29,6 +30,9 @@ GH drink buff
   - 3 Открыть SHOW IN FOLDER и перенести папки в ту что откроется
 
   https://www.nexusmods.com/monsterhunterfreedomunite/mods/36 - Текстурки (еще лучше)
+ 
   https://www.nexusmods.com/monsterhunterfreedomunite/mods/38 - ХП оверлей
+  
   https://www.nexusmods.com/monsterhunterfreedomunite/mods/25 - Лок (почти) как в 3у / 4у 
+  
   https://www.nexusmods.com/monsterhunterfreedomunite/mods/26 - Точки сбора подсвечиваются
