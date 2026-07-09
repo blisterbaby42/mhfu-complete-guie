@@ -14,6 +14,9 @@ ISO - https://drive.google.com/file/d/1H2o6R6IEw7QTmlyFf4s5Bw4CyFTcSKZT/view?usp
 
 ЧЕ можно делать в конфиге из интересного: 
 
+True damage value
+Minimap scale
+GH drink buff
 
 АЛСО:
 - Текстурки получше (с пс2 МХ Дос): https://github.com/Monkbreh/MHFU-Texture-Port
