@@ -30,20 +30,14 @@ Minimap scale:
 
 GH drink buff:
 
-When enabled, can get a quick Health and Stamina boost without leaving the Gathering Hall, based on how many Felyne Chefs you have working in your kitchen.
+Вот точный перевод этого текста на русский язык (с сохранением оригинального форматирования):
+Когда включено, позволяет быстро повысить здоровье и выносливость прямо в Зале гильдии (Gathering Hall), не заходя на кухню. Эффект зависит от количества Фелинов-поваров (Felyne Chefs), работающих на вашей кухне.
+Примечание: этот способ не дает кулинарных навыков Фелинов (felyne food skills). Вы можете либо выпить в Зале для быстрого усиления, ЛИБО поесть на кухне… но НЕ ВСЁ ВМЕСТЕ.
 
-Note: This does not provide any felyne food skills and you can either drink in hall for a quick boost OR eat in kitchen… not BOTH.
+Для получения дополнительных бонусов от кулинарных навыков всё равно необходимо есть напрямую на кухне.
+За каждого активного повара на вашей кухне:Вы получаете +10 к максимальному запасу здоровья (максимум +50 при 5 поварах).За 1–4 активных поваров на вашей кухне:Вы получаете +25 к максимальному запасу выносливости (максимум +50 при 5 поварах).
 
-For the added food skill bonuses, eating in the kitchen directly is still required.
-
-    For each active chef in your kitchen:
-    Receive +10 max HP (max +50 at 5 chefs).
-    For 1-4 active chefs in your kitchen:
-    Receive +25 max Stamina (max +50 at 5 chefs).
-
-Press Circle to activate while sitting at the table.
-
-Default is Disable
+Нажмите Круг (Circle), чтобы активировать, сидя за столом.
 
 //////////////////////////////////////////////////////////////////////////////////////////////////////////
 
