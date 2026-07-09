@@ -1,3 +1,4 @@
+<img width="128" height="64" alt="sddefault" src="https://github.com/user-attachments/assets/ddf74824-343f-421a-940b-0fd473c74a25" />
 # mhfu-complete-guie
 tamadai eptbl
 
