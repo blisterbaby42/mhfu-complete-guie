@@ -2,7 +2,7 @@
 
 [Патченый ISO](https://drive.google.com/file/d/1H2o6R6IEw7QTmlyFf4s5Bw4CyFTcSKZT/view?usp=sharing)
 
-=
+
 ...Что-то пошло не так?
 =
 Если Исо не запускается, придется патчить самому:
@@ -17,7 +17,7 @@
   
 [В браузере](https://fucomplete.github.io/assets/config_editor.html)
 
-=
+
 ЧЕ можно делать в конфиге:
 =
 
@@ -40,7 +40,7 @@ GH drink buff:
 
 Нажмите Круг (Circle), чтобы активировать, сидя за столом.
 
-=
+
 АЛСО:
 =
 - Текстурки получше (с пс2 МХ Дос): https://github.com/Monkbreh/MHFU-Texture-Port
@@ -61,8 +61,11 @@ GH drink buff:
   
 - https://www.nexusmods.com/monsterhunterfreedomunite/mods/26 - Точки сбора подсвечиваются
 
-=
-Ковыряние в файлахЖ
-=
 
+Ковыряние в файлах:
+=
+https://github.com/AsteriskAmpersand/PMO-Importer
+https://github.com/Kurogami2134/pmo_export
+https://github.com/Kurogami2134/MHP3rd-Game-FIle-List/blob/main/guide/guide.md
 
+https://github.com/IncognitoMan?tab=overview&from=2026-06-01&to=2026-06-30 - крутой чел
