@@ -55,7 +55,7 @@ GH drink buff:
 
 - https://www.nexusmods.com/monsterhunterfreedomunite/mods/36 - Текстурки (еще лучше)
  
-- https://www.nexusmods.com/monsterhunterfreedomunite/mods/38 - ХП оверлей
+- https://www.nexusmods.com/monsterhunterfreedomunite/mods/38 - ХП оверлей (написан в повершелле, вызывает статтеры)
   
 - https://www.nexusmods.com/monsterhunterfreedomunite/mods/25 - Лок (почти) как в 3у / 4у 
   
