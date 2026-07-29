@@ -64,6 +64,13 @@ GH drink buff:
 
 Ковыряние в файлах:
 =
+
+https://github.com/topics/mhfu etc etc...
+
+https://github.com/FUComplete - FUC repo
+
+https://github.com/EclipseKnight/mhtoolsgui
+
 https://github.com/AsteriskAmpersand/PMO-Importer
 
 https://github.com/Kurogami2134/pmo_export
