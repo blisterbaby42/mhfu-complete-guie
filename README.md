@@ -61,6 +61,9 @@ GH drink buff:
   
 - https://www.nexusmods.com/monsterhunterfreedomunite/mods/26 - Точки сбора подсвечиваются
 
+Athena ASS:
+
+https://www.mediafire.com/file/6z6dgks3kjc4u5g/%5BPSP_MHF1%5DAthena%27s_%2A.S.S-viciousShadow%27s_MHF1_Edition_v96.zip
 
 Ковыряние в файлах:
 =
